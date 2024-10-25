@@ -1,4 +1,4 @@
-#Supervised Learning
+# Supervised Learning
 ## Classifcation
 map some input to a discrete value (a category such as T or F, Boy/girl)
 
